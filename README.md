@@ -20,7 +20,7 @@
 
 ## 🛠️ Skills
 
-**Languages:** Python, SQL, C++, Java  
+**Languages:** Python, SQL.
 **Tools:** Excel, Power BI, Pandas, Seaborn, DBMS  
 **Marketing:** Ad Strategy, Content Planning, Social Media  
 **Soft Skills:** Leadership, Communication, Problem Solving
