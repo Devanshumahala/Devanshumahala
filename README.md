@@ -10,8 +10,8 @@
 - 🔍 **[Netflix Data Analysis](https://github.com/Devanshumahala/Netflix-Data-Analysis)**  
   Analyzed Netflix content to uncover insights in genres, countries, and release trends using Python & Pandas.
 
-- 📈 **[Supermarket Sales Dashboard](https://github.com/Devanshumahala/Supermarket-Sales-Dashboard)**  
-  Built an Excel dashboard to track sales performance by city, gender, and product line using pivot tables & charts.
+ 🤖 **[Universal Data Agent Boat](https://github.com/Devanshumahala/Universal-Data-Agent-boat)**  
+  Developed an intelligent Python-based automation tool that answers user queries from structured datasets and auto-generates visual insights with charts and summaries.
 
 - 📣 **[Influencer Campaign Analysis](https://github.com/Devanshumahala/influencer-campaign-analysis)**  
   Measured campaign success using KPIs like engagement, ROI, and reach for better influencer selection strategies.
