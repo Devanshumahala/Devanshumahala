@@ -10,8 +10,8 @@
 - 🔍 **[Netflix Data Analysis](https://github.com/Devanshumahala/Netflix-Data-Analysis)**  
   Analyzed Netflix content to uncover insights in genres, countries, and release trends using Python & Pandas.
 
- 🤖 **[Universal Data Agent Boat](https://github.com/Devanshumahala/Universal-Data-Agent-boat)**  
- Python automation project for smart data querying and visualization.
+- 🤖 **[Universal Data Agent Boat](https://github.com/Devanshumahala/Universal-Data-Agent-boat)**  
+  Python automation project for smart data querying and visualization.
 
 
 - 📣 **[Influencer Campaign Analysis](https://github.com/Devanshumahala/influencer-campaign-analysis)**  
