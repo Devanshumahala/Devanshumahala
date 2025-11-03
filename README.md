@@ -11,7 +11,8 @@
   Analyzed Netflix content to uncover insights in genres, countries, and release trends using Python & Pandas.
 
  🤖 **[Universal Data Agent Boat](https://github.com/Devanshumahala/Universal-Data-Agent-boat)**  
-  Developed an intelligent Python-based automation tool that answers user queries from structured datasets and auto-generates visual insights with charts and summaries.
+ Python automation project for smart data querying and visualization.
+
 
 - 📣 **[Influencer Campaign Analysis](https://github.com/Devanshumahala/influencer-campaign-analysis)**  
   Measured campaign success using KPIs like engagement, ROI, and reach for better influencer selection strategies.
